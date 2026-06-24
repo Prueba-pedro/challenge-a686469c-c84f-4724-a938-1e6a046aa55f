@@ -1,0 +1,1 @@
+{"dashboards":[{"id":"1","title":"Microservices Dashboard","panels":[{"title":"Requests","type":"graph","targets":[{"target":"rate(http_requests_total[1m])"}]}]}]}
